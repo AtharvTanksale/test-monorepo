@@ -1,0 +1,13 @@
+export { default as DashboardPage } from "./DashboardPage.jsx";
+export { default as InterviewBotPage } from "./InterviewBotPage.jsx";
+export { default as CommunicationBotPage } from "./CommunicationBotPage.jsx";
+export { default as ResumeScorerPage } from "./ResumeScorerPage.jsx";
+export { default as ResumeToJdScorerPage } from "./ResumeToJdScorerPage.jsx";
+export { default as SalaryEstimatorPage } from "./SalaryEstimatorPage.jsx";
+export { default as ArticleshipScorerPage } from "./ArticleshipScorerPage.jsx";
+export { default as EventsPage } from "./EventsPage.jsx";
+export { default as UsersPage } from "./UsersPage.jsx";
+export { default as NotFoundPage } from "./NotFoundPage.jsx";
+export { default as ErrorFallback } from "./ErrorFallback.jsx";
+export { default as LoginPage } from "./LoginPage.jsx";
+export { default as VerifyPhoneNumberPage } from "./VerifyPhoneNumberPage.jsx";

@@ -1,0 +1,16 @@
+{
+  "name": "@camonk/react-query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tanstack/react-query": "^5.32.1",
+    "@tanstack/react-query-devtools": "^5.32.1"
+  }
+}
