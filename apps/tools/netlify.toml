@@ -1,0 +1,4 @@
+[context.tools]
+  command = "cd apps/tools && npm install && npm run build"
+  publish = "apps/tools/dist"
+

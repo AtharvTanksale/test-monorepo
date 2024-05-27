@@ -1,0 +1,13 @@
+
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[context.tools]
+  command = "cd apps/tools && npm install && npm run build"
+  publish = "apps/tools/dist"
+
+
+[context.dashboard]
+  command = "cd apps/dashboard && npm install && npm run build"
+  publish = "apps/dashboard/dist"
